@@ -18,4 +18,4 @@ A **data-driven sustainability model** that predicts environmental impact using 
 
 1️⃣ Clone the repository:  
 ```sh
-https://github.com/PrathamAgrawal51/Sustainability-Model-Using-Logistic-Regression.git
+git clone https://github.com/PrathamAgrawal51/Sustainability-Model-Using-Logistic-Regression.git
